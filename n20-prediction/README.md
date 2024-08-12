@@ -61,4 +61,4 @@ To submit a soil sample, your input as a string should look as follows(a JSON st
 - When retrieving samples or predictions, the DApp will return a report containing the requested data.
 - Any errors during processing will be returned as reports.
 
-You can view the DApp's output in the Docker logs or by using the Cartesi Rollups web interface, typically available at `http://localhost:5004/graphql`.
+You can view the DApp's output in the Docker logs or by using the Cartesi Rollups web interface, typically available at `http://localhost:8080/graphql`.
